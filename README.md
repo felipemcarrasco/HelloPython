@@ -1,2 +1,2 @@
-# HelloPython
-This is a simple Python Hello World
+# Python
+This is a repository of Python files
